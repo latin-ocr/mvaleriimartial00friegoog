@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mvaleriimartial00friegoog/mvaleriimartial00friegoog_0007.png"; bbox 0 0 2978 4988; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 433 1962 1132 2047">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 433 1962 1132 2047">
+     <span class='ocr_line' id='line_1_1' title="bbox 433 1962 1132 2047; baseline 0.019 -23"><span class='ocrx_word' id='word_1_1' title='bbox 433 1973 491 2026; x_wconf 75' lang='lat' dir='ltr'>Das</span> <span class='ocrx_word' id='word_1_2' title='bbox 509 1972 600 2027; x_wconf 82' lang='lat' dir='ltr'>Reoht</span> <span class='ocrx_word' id='word_1_3' title='bbox 618 1973 665 2028; x_wconf 84' lang='lat' dir='ltr'>der</span> <span class='ocrx_word' id='word_1_4' title='bbox 684 1962 873 2047; x_wconf 67' lang='lat' dir='ltr'>Uberaetzung</span> <span class='ocrx_word' id='word_1_5' title='bbox 890 1977 928 2033; x_wconf 82' lang='lat' dir='ltr'>ist</span> <span class='ocrx_word' id='word_1_6' title='bbox 944 1980 1132 2037; x_wconf 75' lang='lat' dir='ltr'><strong>vorbehalten.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1494 4988">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1494 4988">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1494 4988; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1494 4988; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
